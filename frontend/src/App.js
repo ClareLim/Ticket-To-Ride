@@ -24,6 +24,7 @@ import Display from './pages/Display';
 
 
 function App() {
+    console.log("test")
     return (
         <Router>
             <NavBar />
